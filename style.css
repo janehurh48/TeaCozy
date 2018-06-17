@@ -37,4 +37,28 @@ nav span {
 a {
   color: seashell;
 }
+/*Main Section*/
+.main {
+  padding-top: 69px;
+  width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+
 /*Mission Section*/
+#mission {
+  background-image: url(resources/images/mission-background.jpg);
+  width: 1200px;
+  height: 700px;
+  padding-top: 70px;
+}
+#mission .text {
+  width: 1200px%;
+  align-items: center;
+  background: black;
+  margin: auto;
+}
+h2, h4{
+  margin: 0;
+  padding: 10px;
+}
